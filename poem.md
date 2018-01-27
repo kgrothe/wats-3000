@@ -1,6 +1,5 @@
-
 ## *Acquainted with the Night*
-_by Robert Frost_
+#### _**by Robert Frost**_
 
 :sparkles: :star2: :star: :moon: :star: :star2: :sparkles:
 
@@ -23,5 +22,5 @@ One luminary clock against the sky<br>
 Proclaimed the time was neither wrong nor right.<br>
 I have been one acquainted with the night.<br><br>
 
----
+
 [Public Domain Poetry](http://www.public-domain-poetry.com/robert-lee-frost/acquainted-with-the-night-1132)
