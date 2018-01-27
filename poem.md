@@ -1,7 +1,7 @@
 ## *Acquainted with the Night*
 #### _**by Robert Frost**_
+:sparkles: :star2: :star: :moon: :star: :star2: :sparkles:<br><br>
 
-:sparkles: :star2: :star: :moon: :star: :star2: :sparkles:
 
 I have been one acquainted with the night.<br>
 I have walked out in rain—and back in rain.<br>
